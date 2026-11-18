@@ -74,7 +74,7 @@ Then open [localhost:5173](https://localhost:5173) in your browser.
 
 ### Creating a prototype
 
-1. Make a new folder in the `prototypes` folder.
+1. Make a new folder in the `src/prototypes` folder.
 2. Put an `index.vue` file in the folder containing your prototype.
 3. Click your prototype from the home page!
 
